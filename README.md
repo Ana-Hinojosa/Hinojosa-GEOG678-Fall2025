@@ -3,11 +3,11 @@ Ana Hinojosa
 
 |Homework   |Labs    |
 |:------:|:------:|
-|[Week01](Homework/Week01)|[Week01](Labs/Week01)|
-|[Week02](Homework/Week02)|[Week02](Labs/Week02)|
-|[Week03](Homework/Week03)|[Week03](Labs/Week03)|
-|[Week04](Homework/Week04)|[Week04](Labs/Week04)|
-|[Week05](Homework/Week05)|[Week05](Labs/Week05)|
-|[Week06](Homework/Week06)|[Week06](Labs/Week06)|
-|[Week07](Homework/Week07)|[Week07](Labs/Week07)|
-|[Week08](Homework/Week08)|[Week08](Labs/Week08)|
+|[01](Homework/01)|[01](Labs/01)|
+|[02](Homework/02)|[02](Labs/02)|
+|[03](Homework/03)|[03](Labs/03)|
+|[04](Homework/04)|[04](Labs/04)|
+|[05](Homework/05)|[05](Labs/05)|
+|[06](Homework/06)|[06](Labs/06)|
+|[07](Homework/07)|[07](Labs/07)|
+|[08](Homework/08)|[08](Labs/08)|
