@@ -1,3 +1,3 @@
-##<Lab 6>
-###<Ana Hinojosa>
-####(Description on assignment)
+## Lab 6
+### Ana Hinojosa
+#### (Description on assignment)

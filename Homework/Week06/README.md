@@ -1,3 +1,3 @@
-##<Homework 6>
-###<Ana Hinojosa>
-####(Description on assignment)
+## Homework 6
+### Ana Hinojosa
+#### (Description on assignment)
