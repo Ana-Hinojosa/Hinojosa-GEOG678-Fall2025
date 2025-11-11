@@ -16,7 +16,7 @@ body {
   height: 80px;
 }
 
-/* Name at the very top */
+/* My name */
 h1 {
   text-align: center;
   color: black;
@@ -24,7 +24,7 @@ h1 {
   margin: 0 0 8px;
 }
 
-/* Contact bar */
+/* Contact info */
 .contact {
   display: flex;
   justify-content: space-between;
@@ -44,14 +44,13 @@ a {
 }
 a:hover { color: red; }
 
-/* Divider line after contact information */
+/* Line after contact information */
 hr {
   border: none;
   border-top: 1px solid #000000;
   margin: 15px 0;
 }
 
-/* Headings */
 h2 {
   color: maroon;
   font-size: 22px;
@@ -84,7 +83,6 @@ h4 {
   white-space: nowrap;
 }
 
-/* Paragraphs and lists */
 p {
   margin: 6px 0 12px;
 }
