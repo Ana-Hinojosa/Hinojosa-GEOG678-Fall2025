@@ -1,0 +1,97 @@
+/* Basic page setup */
+body {
+  background: lightgrey;
+  color: black;
+  padding: 30px;
+  font-family: Georgia;
+  position: relative;
+}
+
+/* Top-right logo */
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 90px;
+  height: 80px;
+}
+
+/* Main name */
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 36px;
+  margin: 0 0 8px;
+}
+
+/* Contact bar */
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.contact .left { text-align: left; flex: 1; }
+.contact .middle { text-align: center; flex: 1; }
+.contact .right { text-align: right; flex: 1; }
+
+/* Links */
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover { color: red; }
+
+/* Divider line after contact information */
+hr {
+  border: none;
+  border-top: 1px solid #000000;
+  margin: 15px 0;
+}
+
+/* Headings */
+h2 {
+  color: maroon;
+  font-size: 22px;
+  border-bottom: 1px solid #000000;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  padding-bottom: 4px;
+}
+
+h3 {
+  color: maroon;
+  margin-top: 18px;
+  margin-bottom: 4px;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+h4 {
+  color: maroon;
+  margin: 3px 0 6px;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.date {
+  font-weight: bold;
+  color: maroon;
+  white-space: nowrap;
+}
+
+/* Paragraphs and lists */
+p {
+  margin: 6px 0 12px;
+}
+
+ul {
+  margin-top: 4px;
+  margin-bottom: 14px;
+  padding-left: 20px;
+}
+
