@@ -1,4 +1,4 @@
-/* Basic page setup */
+/* Page setup */
 body {
   background: lightgrey;
   color: black;
@@ -7,7 +7,7 @@ body {
   position: relative;
 }
 
-/* Top-right logo */
+/* A&M logo */
 .logo {
   position: absolute;
   top: 20px;
@@ -16,7 +16,7 @@ body {
   height: 80px;
 }
 
-/* Main name */
+/* Name at the very top */
 h1 {
   text-align: center;
   color: black;
@@ -94,4 +94,3 @@ ul {
   margin-bottom: 14px;
   padding-left: 20px;
 }
-
