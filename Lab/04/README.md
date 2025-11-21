@@ -1,3 +1,3 @@
 ## Lab 4
 ### Ana Hinojosa
-#### (Description on assignment)
+#### JS/JSON Programming: Finding Bounding Box Lab
