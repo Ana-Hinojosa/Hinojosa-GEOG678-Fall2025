@@ -4,7 +4,7 @@
 ##### Task 1: D3 Chart:
 ![Screenshot](D3_Screenshot_AH.jpg)
 ##### Task 2: HighCharts: 
-![Screenshot](Highcharts_Screenshot_AH)
+![Screenshot](Highcharts_Screenshot_AH.jpg)
 ##### Task 3: Dashboard Link: https://www.arcgis.com/apps/dashboards/52a1636871b44608ab3e99f705e695e7: 
 ![Screenshot](Dashboard_Screenshot_AH.jpg)
 
